@@ -1,6 +1,6 @@
-Title: Glider Loop #4 — Base Deposit Interaction (10 USDC)
+Title: Glider Loop #1 — Base Deposit Interaction (10 USDC)
 
-# Glider Loop #4 — Base Deposit Interaction (10 USDC)
+# Glider Loop #1 — Base Deposit Interaction (10 USDC)
 **Date:** 2025-10-27 20:37 KST  
 **Network:** Base  
 **Action:** 10 USDC deposit + menu interaction test (~10 min)  
